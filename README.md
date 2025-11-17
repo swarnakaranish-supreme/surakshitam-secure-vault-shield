@@ -1,2 +1,2 @@
-# surakshitam-secure-vault-shield
-it is a secure file locker which used encryption and decription technology to secur files with a passkey
+# Surakshitam Secure Vault - Fullstack
+This repository contains the frontend (React + Vite) and backend (FastAPI) for the Surakshitam Secure Vault project.
